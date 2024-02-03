@@ -1,26 +1,26 @@
 @font-face {
     font-family: 'medium';
-    src: url(./font/NeueHaasDisplayMediu.ttf);
+    src: url(NeueHaasDisplayMediu.ttf);
 }
 
 @font-face {
     font-family: 'light';
-    src: url(./font/NeueHaasDisplayRoman.ttf);
+    src: url(NeueHaasDisplayRoman.ttf);
 }
 
 @font-face {
     font-family: 'thin';
-    src: url(./font/NeueHaasDisplayThin.ttf);
+    src: url(NeueHaasDisplayThin.ttf);
 }
 
 @font-face {
     font-family: 'xthin';
-    src: url(./font/NeueHaasDisplayXThin.ttf);
+    src: url(NeueHaasDisplayXThin.ttf);
 }
 
 @font-face {
     font-family: 'xxthin';
-    src: url(./font/NeueHaasDisplayXXThin.ttf);
+    src: url(NeueHaasDisplayXXThin.ttf);
 }
 * {
     margin: 0;
